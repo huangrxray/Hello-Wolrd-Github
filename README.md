@@ -1,2 +1,5 @@
 # Hello-Wolrd-Github
-666
+
+Hello, I'm Huang Ruixiang!
+
+My student number is 1155173870.
